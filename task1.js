@@ -3,7 +3,6 @@ let positiveCount = 0;
 let negativeCount = 0;
 let zeroCount = 0;
 
-
 for (const number of numbers) {
     if (number > 0) {
         positiveCount++;
